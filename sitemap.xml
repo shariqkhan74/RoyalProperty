@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  XML SITEMAP FOR ROYAL PROPERTY (BAREILLY, UTTAR PRADESH)
+  Consultant: Shakir Ali Khan | Phone: +91 9368129424
+  
+  IMPORTANT DEPLOYMENT INSTRUCTION:
+  Replace "YOUR-DOMAIN.com" with your live registered website URL.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 1. Homepage -->
+  <url>
+    <loc>https://YOUR-DOMAIN.com/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 2. About Us -->
+  <url>
+    <loc>https://YOUR-DOMAIN.com/about.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 3. Land Development & Plotting -->
+  <url>
+    <loc>https://YOUR-DOMAIN.com/land-development.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 4. Residential Plots -->
+  <url>
+    <loc>https://YOUR-DOMAIN.com/plots.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 5. New Houses & Modern Homes -->
+  <url>
+    <loc>https://YOUR-DOMAIN.com/houses.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 6. All Properties Catalog -->
+  <url>
+    <loc>https://YOUR-DOMAIN.com/properties.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 7. Contact & Site Visits -->
+  <url>
+    <loc>https://YOUR-DOMAIN.com/contact.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 8. Privacy Policy -->
+  <url>
+    <loc>https://YOUR-DOMAIN.com/privacy-policy.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- 9. Terms & Conditions -->
+  <url>
+    <loc>https://YOUR-DOMAIN.com/terms.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

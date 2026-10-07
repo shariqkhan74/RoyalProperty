@@ -1,0 +1,18 @@
+# ==============================================================================
+# ROBOTS.TXT FOR ROYAL PROPERTY (BAREILLY, UTTAR PRADESH)
+# 
+# IMPORTANT:
+# Replace "YOUR-DOMAIN.com" with your actual registered domain name when deploying.
+# Example: https://www.royalpropertybareilly.com/sitemap.xml
+# ==============================================================================
+
+User-agent: *
+Allow: /
+
+# Disallow non-indexable utility & legal policy pages from crawling if preferred
+Disallow: /privacy-policy.html
+Disallow: /terms.html
+Disallow: /404.html
+
+# XML Sitemap Location
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
